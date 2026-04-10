@@ -1,3 +1,4 @@
+--初始化数据库
 -- 创建数据库
 CREATE DATABASE IF NOT EXISTS sunny DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 
