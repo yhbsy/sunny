@@ -6,6 +6,7 @@
 *.njsproj
 *.sln
 *.sw?
+./sunny-backend/target/*    
 
 # OS files
 .DS_Store
